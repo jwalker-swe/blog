@@ -20,4 +20,4 @@ Let me list them, at least the one's I've realized so far:
                             - Get user id of profile being viewed
                             - Check table for relationship
 
-And while it's clearly not the longest list of things you've ever seen, it's definitely wasn't the first thing that crossed my mind when thinking "Oh yeah I need to add the follow button to this page". So next time give that front end dev some slack, they really might be working on that button till EOD.
+And while it's clearly not the longest list of things you've ever seen, it definitely wasn't the first thing that crossed my mind when thinking "Oh yeah I need to add the follow button to this page". So next time give that front end dev some slack, they really might be working on that button till EOD.
