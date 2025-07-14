@@ -4,7 +4,8 @@ July 13, 2025
 So I recently got to a point in the development of Crate, where I needed to add follow buttons to user profiles. Little did I know it would be much much more than just adding a simple little button to a page. And yes I know it's a meme, "front end dev spends yet another entire 8 hour work day making sure the button color is just right", but I just wanted it to look perfect for you guys. But really, given I haven't ever built out something where users would even need an option to follow other users, I didn't quite realize the many different things that would need to be implemented or data pulled/sent to make sure it behaves the way you would expect. 
 
 Let me list them, at least the one's I've realized so far:
-    * Check if user currently signed in
+
+    - Check if user currently signed in
         - How:
             - Get session data
             - Check if user is viewing own profile
